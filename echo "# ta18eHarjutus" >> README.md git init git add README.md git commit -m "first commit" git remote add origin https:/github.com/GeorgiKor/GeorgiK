@@ -1,0 +1,6 @@
+echo "# ta18eHarjutus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GeorgiKor/ta18eHarjutus.git
+git push -u origin master
